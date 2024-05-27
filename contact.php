@@ -6,6 +6,17 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="" method="post"></form>
+    <form action="" method="post">
+
+        <p>
+            <label for="email">Email :</label>
+            <input type="email" name="email" id="email">
+        </p>
+
+        <p>
+            <input type="submit" value="OK">
+        </p>
+
+    </form>
 </body>
 </html>
