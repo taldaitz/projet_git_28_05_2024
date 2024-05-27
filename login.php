@@ -6,3 +6,8 @@ function login()
 {
     echo "login OK";
 }
+
+function logout()
+{
+    echo "logout OK";
+}

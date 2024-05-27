@@ -13,6 +13,8 @@
         Texte de présentation plus détaillé
     </p>
 
+    <cite>Les tests c'est super bien !</cite>
+
     <footer>
         <a href="mailto:taldaitz@dawan.fr">taldaitz@dawan.fr</a>
     </footer>
