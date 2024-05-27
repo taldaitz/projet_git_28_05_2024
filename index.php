@@ -3,3 +3,5 @@
 <p>
     Texte de présentation plus détaillé
 </p>
+
+<cite>Les tests c'est super bien !</cite>
